@@ -1,6 +1,6 @@
 ﻿using System.Web;
 using System.Web.Optimization;
-
+// commentaire pour test
 namespace GeekQuiz
 {
     public class BundleConfig
